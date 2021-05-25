@@ -15,6 +15,7 @@
   <img src="logos/github-logo.png" alt="GitHub" title="GitHub" width="5%">&emsp;&emsp;
   <img src="logos/dbms-logo.png" alt="DBMS" title="DBMS" width="5%">&emsp;&emsp;
   <img src="logos/os-logo.png" alt="OS" title="Operating System" width="5%">&emsp;&emsp;
+  <img src="logos/computer-network-logo.png" alt="CN" title="Computer Networks" width="6%">&emsp;&emsp;
   
 # PS
   I am not Pro in all the skills mentioned above. I featured them cause working to get expertise in them.
