@@ -1,8 +1,8 @@
 # About me
-  Student.
-  Programmer.
-  Web Developer.
-  Want to work as SDE.
+  Student.<br>
+  Programmer.<br>
+  Web Developer.<br>
+  Want to work as SDE.<br>
   
 # Tech Stack
   <img src="logos/c-logo.png" alt="C" title="C" width="5%">&emsp;&emsp;
