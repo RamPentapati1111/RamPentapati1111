@@ -4,7 +4,7 @@
   Web Developer.<br>
   Want to work as SDE.<br>
   
-# Tech Stack
+## Tech Stack
   <img src="logos/c-logo.png" alt="C" title="C" width="5%">&emsp;&emsp;
   <img src="logos/cpp-logo.png" alt="Cpp" title="Cpp" width="5%">&emsp;&emsp;
   <img src="logos/python.png" alt="Python" title="Python" width="5%">&emsp;&emsp;<br><br>
@@ -20,7 +20,7 @@
   <img src="logos/os-logo.png" alt="OS" title="Operating System" width="5%">&emsp;&emsp;
   <img src="logos/computer-network-logo.png" alt="CN" title="Computer Networks" width="6%">&emsp;&emsp;
   
-# PS
+## PS
   I am not Pro in all the skills mentioned above. I featured them cause working to get expertise in them.
   
   
