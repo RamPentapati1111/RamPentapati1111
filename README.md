@@ -2,7 +2,7 @@
   Student.<br>
   Programmer.<br>
   
-## Learning...
+## Tyring to learn...
   <img src="logos/mongoDB-logo.png" alt="mongoDB" title="mongoDB" width="8%">&emsp;&emsp;
   <img src="logos/ExpressJS-logo.jpeg" alt="ExpressJS" title="ExpressJS" width="8%">&emsp;&emsp;
   <img src="logos/React-logo.png" alt="React" title="React" width="4%">&emsp;&emsp;
