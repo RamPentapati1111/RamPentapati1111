@@ -2,7 +2,7 @@
   Student.<br>
   Programmer.<br>
   
-## Tyring to learn...
+<!-- ## Tyring to learn...
   <img src="logos/mongoDB-logo.png" alt="mongoDB" title="mongoDB" width="8%">&emsp;&emsp;
   <img src="logos/ExpressJS-logo.jpeg" alt="ExpressJS" title="ExpressJS" width="8%">&emsp;&emsp;
   <img src="logos/React-logo.png" alt="React" title="React" width="4%">&emsp;&emsp;
@@ -13,7 +13,10 @@
   <img src="logos/dbms-logo.png" alt="DBMS" title="DBMS" width="5%">&emsp;&emsp;
   <img src="logos/os-logo.png" alt="OS" title="Operating System" width="5%">&emsp;&emsp;
   <img src="logos/computer-network-logo.png" alt="CN" title="Computer Networks" width="6%">&emsp;&emsp;
-
+<br> -->
+## Current Work:
+  Gaining knowledge in DSA. <br>
+  In a path of Front-end Development followed by Full Stack Development.
   
   
  
