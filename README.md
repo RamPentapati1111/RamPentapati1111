@@ -15,7 +15,7 @@
   <img src="logos/computer-network-logo.png" alt="CN" title="Computer Networks" width="6%">&emsp;&emsp;
 <br> -->
 ## Current Work:
-  Gaining knowledge in DSA. <br>
+  Getting proficiency in DSA. <br>
   In a path of Front-end Development followed by Full Stack Development.
   <br><br>
   To reach me:<br>
