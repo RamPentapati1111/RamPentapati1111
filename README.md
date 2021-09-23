@@ -1,6 +1,7 @@
 # About me
   Student.<br>
   Programmer.<br>
+  Web Developer.<br>
   
 <!-- ## Tyring to learn...
   <img src="logos/mongoDB-logo.png" alt="mongoDB" title="mongoDB" width="8%">&emsp;&emsp;
@@ -16,7 +17,7 @@
 <br> -->
 ## Current Work:
   Getting proficiency in DSA. <br>
-  In a path of Front-end Development followed by Full Stack Development.
+  In a path of Front-end Development (HTML, CSS, JavaScript, React) followed by Full Stack Development (MERN).
   <br><br>
   To reach me:<br>
   LinkedIn: https://www.linkedin.com/in/rampentapati1111/
