@@ -20,7 +20,7 @@
   In a path of Front-end Development (HTML, CSS, JavaScript, React) followed by Full Stack Development (MERN).
   <br><br>
   To reach me:<br>
-  LinkedIn: https://www.linkedin.com/in/rampentapati1111/
+  LinkedIn: <a href="https://www.linkedin.com/in/rampentapati1111/">rampentapati1111</a>
   
   
  
