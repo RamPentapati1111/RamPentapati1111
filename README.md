@@ -1,5 +1,5 @@
 # About me
-  Student.<br>
+  Learner.<br>
   Programmer.<br>
   Web Developer.<br>
   
