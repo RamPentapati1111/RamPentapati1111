@@ -16,8 +16,7 @@
   <img src="logos/computer-network-logo.png" alt="CN" title="Computer Networks" width="6%">&emsp;&emsp;
 <br> -->
 ## Current Work:
-  Getting proficiency in DSA. <br>
-  In a path of Front-end Development (HTML, CSS, JavaScript, React) followed by Full Stack Development (MERN).
+  Getting proficient in HTML, CSS, JavaScript, React.
   <br><br>
   To reach me:<br>
   LinkedIn: <a href="https://www.linkedin.com/in/rampentapati1111/">rampentapati1111</a>
