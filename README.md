@@ -1,4 +1,4 @@
-# About me
+### About me
   Learner.<br>
   Programmer.<br>
   Web Developer.<br>
@@ -15,10 +15,10 @@
   <img src="logos/os-logo.png" alt="OS" title="Operating System" width="5%">&emsp;&emsp;
   <img src="logos/computer-network-logo.png" alt="CN" title="Computer Networks" width="6%">&emsp;&emsp;
 <br> -->
-## Current Work:
-  Getting proficient in HTML, CSS, JavaScript, React.
-  <br><br>
-  To reach me:<br>
+### Current Work
+  Getting proficient in HTML, CSS, JavaScript, TypeScript, React.
+  <br>
+### To reach me<br>
   LinkedIn: <a href="https://www.linkedin.com/in/rampentapati1111/">rampentapati1111</a>
   
   
