@@ -4,7 +4,7 @@
   Web Developer.<br>
 ### Current Work
   Getting proficient in HTML, CSS, JavaScript, TypeScript, React.
-### To reach me
+### Connect with me
   LinkedIn: <a href="https://www.linkedin.com/in/rampentapati1111/">rampentapati1111</a>
   
   
