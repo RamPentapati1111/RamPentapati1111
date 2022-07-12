@@ -1,10 +1,6 @@
-### About me
-  Learner.<br>
-  Programmer.<br>
-  Web Developer.<br>
-### Current Work
-  Getting proficient in HTML, CSS, JavaScript, TypeScript, React.
-### Connect with me
+## About me
+  Front-End Developer who can develop websites using <strong>HTML, CSS and JavaScript.</strong> Getting Proficient in <strong>React.</strong>
+## Connect with me
   LinkedIn: <a href="https://www.linkedin.com/in/rampentapati1111/">rampentapati1111</a>
   
   
